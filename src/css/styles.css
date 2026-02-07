@@ -1,3 +1,44 @@
 body {
     background-color: #f7f7f7;
 }
+
+.ville-card-0 {
+    background-image: url("https://media.istockphoto.com/id/491701259/fr/photo/bleu-ciel-avec-soleil.jpg?s=612x612&w=0&k=20&c=pcOsXjBU2W4TX9CMKpUWE5k5FjXU1Qq3znYtrImZbnc=");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ville-card-1-2-3 {
+    background-image: url("https://preview.redd.it/where-in-the-world-has-the-most-partly-cloudy-partly-clear-v0-pg6merrtu10c1.jpg?width=1024&format=pjpg&auto=webp&s=6334ff23972e74d2ff4aa4526d1bbfc35635c2b4");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ville-card-45-48 {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyFvsR3EFZhEUtOPMHqjCqM5-TmXOKUi3RmQ&s");
+      background-repeat: no-repeat;
+    background-size: cover;
+}
+.ville-card-61-63-65-80-81-82 {
+    background-image: url("https://static.actu.fr/uploads/2020/08/odeur-pluie-orages-petrichor-question-pas-si-bete-960x640.jpeg");
+    background-repeat: no-repeat;
+  background-size: cover;
+}
+.ville-card-71-73-75-77-85-86 {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/9e/D%C3%BCsseldorf_Hofgarten_2009.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ville-card-51-53-55 {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/5b/Row_of_poplars_in_the_drizzle_-_geograph.org.uk_-_591822.jpg");
+    background-size: cover;
+  background-repeat: no-repeat;
+}
+.ville-card-56-57-66-67 {
+    background-image: url("https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/1200/675/Freezing-Rain-iStock-2.jpg?ve=1&tl=1");
+    background-size: cover;
+  background-repeat: no-repeat;
+}
+.ville-card-95-96-99 {
+    background-image: url("https://hartzellprop.com/wp-content/uploads/GettyImages-940296124-1200x803.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
